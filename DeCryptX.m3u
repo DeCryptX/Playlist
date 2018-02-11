@@ -1,0 +1,399 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Das_Erste.png" group-title="Hauptsender",Das Erste
+
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/ZDF.png" group-title="Hauptsender",ZDF
+
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/RTL.png" group-title="Hauptsender",RTL
+
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/SAT_1.png" group-title="Hauptsender",SAT.1
+
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/ProSieben.png" group-title="Hauptsender",ProSieben
+
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="kabel eins" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/kabel_eins.png" group-title="Hauptsender",kabel eins
+
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/RTL2.png" group-title="Hauptsender",RTL2
+
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/VOX.png" group-title="Hauptsender",VOX
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/3sat.png" group-title="Hauptsender",3sat
+
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="arte" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/arte.png" group-title="Hauptsender",arte
+
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-name="Servus TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/ServusTV.png" group-title="Weitere Sender",ServusTV
+
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Tele5.png" group-title="Hauptsender",Tele 5
+
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/DMAX.png" group-title="Hauptsender",DMAX
+
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="sixx" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/sixx.png" group-title="Hauptsender",sixx
+
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL NITRO" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/RTL_NITRO.png" group-title="Weitere Sender",RTL NITRO
+
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTLplus" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/RTLplus.png" group-title="Weitere Sender",RTLplus
+
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/SAT_1_Gold.png" group-title="Weitere Sender",SAT.1 Gold
+
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/ProSieben_MAXX.png" group-title="Weitere Sender",ProSieben MAXX
+
+#EXTINF:-1 tvg-id="ComedyCentralVIVA.de" tvg-name="Comedy Central/VIVA" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Comedy_Central_VIVA.png" group-title="Weitere Sender",Comedy Central/VIVA
+
+#EXTINF:-1 tvg-id="HR.de" tvg-name="HR" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/HR.png" group-title="Weitere Sender",HR
+
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/SPORT1.png" group-title="Hauptsender",SPORT1
+
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Eurosport_1.png" group-title="Hauptsender",Eurosport 1
+
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/KiKA.png" group-title="Hauptsender",KiKA
+
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Super_RTL.png" group-title="Hauptsender",Super RTL
+
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/TOGGO_plus.png" group-title="Weitere Sender",TOGGO plus
+
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/RiC.png" group-title="Weitere Sender",RiC
+
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Nickelodeon.png" group-title="Weitere Sender",Nickelodeon
+
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Disney_Channel.png" group-title="Weitere Sender",Disney Channel
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Phoenix.png" group-title="Weitere Sender",Phoenix
+
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD alpha" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/ARD_alpha.png" group-title="Weitere Sender",ARD alpha
+
+#EXTINF:-1 tvg-id="One.de" tvg-name="ONE" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/ONE.png" group-title="Weitere Sender",ONE
+
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/ZDFneo.png" group-title="Weitere Sender",ZDFneo
+
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/ZDFinfo.png" group-title="Weitere Sender",ZDFinfo
+
+#EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="ANIXE" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/ANIXE.png" group-title="Weitere Sender",ANIXE
+
+#EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee.One" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Zee_One.png" group-title="Weitere Sender",Zee.One
+
+#EXTINF:-1 tvg-id="FamilyTV.de" tvg-name="Family TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Zee_One.png" group-title="Weitere Sender",Family TV
+
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/TLC.png" group-title="Weitere Sender",TLC
+
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Welt_der_Wunder_TV.png" group-title="Weitere Sender",Welt der Wunder TV
+
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/tagesschau24.png" group-title="Weitere Sender",tagesschau24
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/n-tv.png" group-title="Weitere Sender",n-tv
+
+#EXTINF:-1 tvg-id="n24.de" tvg-name="welt" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/welt.png" group-title="Hauptsender",welt
+
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/N24_Doku.png" group-title="Weitere Sender",N24 Doku
+
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/kabel_eins_Doku.png" group-title="Weitere Sender",kabel eins Doku
+
+#EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Bibel_TV.png" group-title="Weitere Sender",Bibel TV
+
+#EXTINF:-1 tvg-id="AstroTV.de" tvg-name="Astro TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Astro_TV.png" group-title="Weitere Sender",Astro TV
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg Europe TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Bloomberg_Europe_TV.png" group-title="Weitere Sender",Bloomberg Europe TV
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN International" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/CNN_International.png" group-title="Weitere Sender",CNN International
+
+#EXTINF:-1 tvg-id="bbc" tvg-name="BBC World News" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/BBC_World_News.png" group-title="Weitere Sender",BBC World News
+
+#EXTINF:-1 tvg-id="euro" tvg-name="euronews" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/euronews.png" group-title="Weitere Sender",euronews
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Al_Jazeera.png" group-title="Weitere Sender",Al Jazeera
+
+#EXTINF:-1 tvg-id="france24" tvg-name="France 24" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/France_24.png" group-title="Weitere Sender",France 24
+
+#EXTINF:-1 tvg-id="" tvg-name="Der Aktionär TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Der_Aktionaer_TV.png" group-title="Weitere Sender",Der Aktionär TV
+
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Deluxe_Music.png" group-title="Weitere Sender",Deluxe Music
+
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Deutsches_Musik_Fernsehen.png" group-title="Weitere Sender",Deutsches Musik Fernsehen
+
+#EXTINF:-1 tvg-id="" tvg-name="1-2-3.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/1-2-3_tv.png" group-title="Weitere Sender",1-2-3.tv
+
+#EXTINF:-1 tvg-id="" tvg-name="Juwelo" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Juwelo.png" group-title="Weitere Sender",Juwelo
+
+#EXTINF:-1 tvg-id="QVC.de" tvg-name="QVC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/QVC.png" group-title="Weitere Sender",QVC
+
+#EXTINF:-1 tvg-id="QVCPlus.de" tvg-name="QVC2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/QVC2.png" group-title="Weitere Sender",QVC2
+
+#EXTINF:-1 tvg-id="" tvg-name="QVC Style" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/QVC_Style.png" group-title="Weitere Sender",QVC Style
+
+#EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/HSE24.png" group-title="Weitere Sender",HSE24
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel21" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Channel21.png" group-title="Weitere Sender",Channel21
+
+#EXTINF:-1 tvg-id="Tectime.de" tvg-name="TecTime TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/TecTime_TV.png" group-title="Weitere Sender",TecTime TV
+
+#EXTINF:-1 tvg-id="SonnenKlar.de" tvg-name="sonnenklar.TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/sonnenklar_TV.png" group-title="Weitere Sender",sonnenklar.TV
+
+#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR Sachsen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/MDR_Sachsen.png" group-title="Weitere Sender",MDR Sachsen
+
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR Hamburg" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/NDR_Hamburg.png" group-title="Weitere Sender",NDR Hamburg
+
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Siegen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/WDR.png" group-title="Weitere Sender",WDR Siegen
+
+#EXTINF:-1 tvg-id="SWR-rp.de" tvg-name="SWR RP" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/SWR_RP.png" group-title="Weitere Sender",SWR RP
+
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/rbb.png" group-title="Weitere Sender",rbb
+
+#EXTINF:-1 tvg-id="DeutscheWelle.ca" tvg-name="DW Europe" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/DW_Europe.png" group-title="Weitere Sender",DW Europe
+
+#EXTINF:-1 tvg-id="ATV.de" tvg-name="ATV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/ATV.png" group-title="Weitere Sender",ATV
+
+#EXTINF:-1 tvg-id="ATV2.at" tvg-name="ATV 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/ATV_2.png" group-title="Weitere Sender",ATV 2
+
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF eins" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/ORF_eins.png" group-title="Weitere Sender",ORF eins
+
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/ORF_2.png" group-title="Weitere Sender",ORF 2
+
+#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/ORF_3.png" group-title="Weitere Sender",ORF 3
+
+#EXTINF:-1 tvg-id="Puls4.at" tvg-name="PULS 4" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/PULS_4.png" group-title="Weitere Sender",PULS 4
+
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/SRF_1.png" group-title="Weitere Sender",SRF 1
+
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/SRF_zwei.png" group-title="Weitere Sender",SRF zwei
+
+#EXTINF:-1 tvg-id="3plus.ch" tvg-name="3+" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/3plus.png" group-title="Weitere Sender",3+
+
+#EXTINF:-1 tvg-id="4plus.ch" tvg-name="4+" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/4plus.png" group-title="Weitere Sender",4+
+
+#EXTINF:-1 tvg-id="5plus.ch" tvg-name="5+" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/5plus.png" group-title="Weitere Sender",5+
+
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Universal.png" group-title="Sky Deutschland",Universal
+
+#EXTINF:-1 tvg-id="TNTGlitz.de" tvg-name="TNT Comedy" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/TNT_Comedy.png" group-title="Sky Deutschland",TNT Comedy
+
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! Entertainm." tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/E_Entertainment.png" group-title="Sky Deutschland",E! Entertainm.
+
+#EXTINF:-1 tvg-id="Sky1.de" tvg-name="Sky 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Sky_1.png" group-title="Sky Deutschland",Sky 1
+
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="Sky Krimi" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Sky_Krimi.png" group-title="Sky Deutschland",Sky Krimi
+
+#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky Atlantic" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Sky_Atlantic.png" group-title="Sky Deutschland",Sky Atlantic
+
+#EXTINF:-1 tvg-id="FoxSerie.de" tvg-name="Fox Serie" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Fox_Serie.png" group-title="Sky Deutschland",Fox Serie
+
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT Serie" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/TNT_Serie.png" group-title="Sky Deutschland",TNT Serie
+
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/RTL_Crime.png" group-title="Sky Deutschland",RTL Crime
+
+#EXTINF:-1 tvg-id="SciFi.de" tvg-name="Syfy" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Syfy.png" group-title="Sky Deutschland",Syfy
+
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/13th_Street.png" group-title="Sky Deutschland",13th Street
+
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/RTL_Passion.png" group-title="Sky Deutschland",RTL Passion
+
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/RTL_Living.png" group-title="Sky Deutschland",RTL Living
+
+#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Romance_TV.png" group-title="Sky Deutschland",Romance TV
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport UHD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Sky_Sport_UHD.png" group-title="Sky Deutschland",Sky Sport UHD
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga UHD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Sky_Sport_Bundesliga_UHD.png" group-title="Sky Deutschland",Sky Sport Bundesliga UHD
+
+#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="Sport1+" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Sport1plus.png" group-title="Sky Deutschland",Sport1+
+
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Eurosport_2.png" group-title="Sky Deutschland",Eurosport 2
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport360HD 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Eurosport360HD.png" group-title="Sky Deutschland",Eurosport360HD 1
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport360HD 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Eurosport360HD.png" group-title="Sky Deutschland",Eurosport360HD 2
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport360HD 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Eurosport360HD.png" group-title="Sky Deutschland",Eurosport360HD 3
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport360HD 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Eurosport360HD.png" group-title="Sky Deutschland",Eurosport360HD 4
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport360HD 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Eurosport360HD.png" group-title="Sky Deutschland",Eurosport360HD 5
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport360HD 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Eurosport360HD.png" group-title="Sky Deutschland",Eurosport360HD 6
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport360HD 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Eurosport360HD.png" group-title="Sky Deutschland",Eurosport360HD 7
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport360HD 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Eurosport360HD.png" group-title="Sky Deutschland",Eurosport360HD 8
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport360HD 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Eurosport360HD.png" group-title="Sky Deutschland",Eurosport360HD 9
+
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_News.png" group-title="Sky Deutschland",Sky Sport News
+
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Bundesliga 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Bundesliga_1.png" group-title="Sky Deutschland",Sky Bundesliga 1
+
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Bundesliga_2.png" group-title="Sky Deutschland",Sky Bundesliga 2
+
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Bundesliga_3.png" group-title="Sky Deutschland",Sky Bundesliga 3
+
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Bundesliga_4.png" group-title="Sky Deutschland",Sky Bundesliga 4
+
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Bundesliga_5.png" group-title="Sky Deutschland",Sky Bundesliga 5
+
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Bundesliga_6.png" group-title="Sky Deutschland",Sky Bundesliga 6
+
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Bundesliga_7.png" group-title="Sky Deutschland",Sky Bundesliga 7
+
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Bundesliga_8.png" group-title="Sky Deutschland",Sky Bundesliga 8
+
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Bundesliga_9.png" group-title="Sky Deutschland",Sky Bundesliga 9
+
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Bundesliga_10.png" group-title="Sky Deutschland",Sky Bundesliga 10
+
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_1.png" group-title="Sky Deutschland",Sky Sport 1
+
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_2.png" group-title="Sky Deutschland",Sky Sport 2
+
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_3.png" group-title="Sky Deutschland",Sky Sport 3
+
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_4.png" group-title="Sky Deutschland",Sky Sport 4
+
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_5.png" group-title="Sky Deutschland",Sky Sport 5
+
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_6.png" group-title="Sky Deutschland",Sky Sport 6
+
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_7.png" group-title="Sky Deutschland",Sky Sport 7
+
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_8.png" group-title="Sky Deutschland",Sky Sport 8
+
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_9.png" group-title="Sky Deutschland",Sky Sport 9
+
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport 10" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_10.png" group-title="Sky Deutschland",Sky Sport 10
+
+#EXTINF:-1 tvg-id="SkySport11.de" tvg-name="Sky Sport 11" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_11.png" group-title="Sky Deutschland",Sky Sport  11
+
+#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-name="Sky Sport Austria" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Sport_Austria.png" group-title="Sky Deutschland",Sky Sport Austria
+
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sportdigital" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sportdigital.png" group-title="Sky Deutschland",Sportdigital
+
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky Cinema" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Cinema.png" group-title="Sky Deutschland",Sky Cinema
+
+#EXTINF:-1 tvg-id="SkyCinemaPlus1.de" tvg-name="Sky Cinema+1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Cinema_plus1.png" group-title="Sky Deutschland",Sky Cinema+1
+
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky Cinema+24" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Cinema_plus24.png" group-title="Sky Deutschland",Sky Cinema+24
+
+#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="Sky Cinema Hits" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Cinema_Hits.png" group-title="Sky Deutschland",Sky Cinema Hits
+
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Cinema_Action.png" group-title="Sky Deutschland",Sky Cinema Action
+
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Cinema_Family.png" group-title="Sky Deutschland",Sky Cinema Family
+
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="Sky Cinema Comedy" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Cinema_Comedy.png" group-title="Sky Deutschland",Sky Cinema Comedy
+
+#EXTINF:-1 tvg-id="SkyEmotion.de" tvg-name="Sky Cinema Emotion" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Cinema_Emotion.png" group-title="Sky Deutschland",Sky Cinema Emotion
+
+#EXTINF:-1 tvg-id="SkyNostalgie.de" tvg-name="Sky Cinema Nostalgie" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Cinema_Nostalgie.png" group-title="Sky Deutschland",Sky Cinema Nostalgie
+
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Disney_Cinemagic.png" group-title="Sky Deutschland",Disney Cinemagic
+
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Heimatkanal.png" group-title="Sky Deutschland",Heimatkanal
+
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT Film (TCM)" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/TNT_Film.png" group-title="Sky Deutschland",TNT Film (TCM)
+
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="Kinowelt TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Kinowelt_TV.png" group-title="Sky Deutschland",Kinowelt TV
+
+#EXTINF:-1 tvg-id="BeateUhse.de" tvg-name="Beate-Uhse.TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Beate_Uhse_TV.png" group-title="Sky Deutschland",Beate-Uhse.TV
+
+#EXTINF:-1 tvg-id="SkySelect.de" tvg-name="Sky Select HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_HD.png" group-title="Sky Deutschland",Sky Select HD
+
+#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_1.png" group-title="Sky Deutschland",Sky Select 1
+
+#EXTINF:-1 tvg-id="SkySelect2.de" tvg-name="Sky Select 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_2.png" group-title="Sky Deutschland",Sky Select 2
+
+#EXTINF:-1 tvg-id="SkySelect3.de" tvg-name="Sky Select 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_3.png" group-title="Sky Deutschland",Sky Select 3
+
+#EXTINF:-1 tvg-id="SkySelect4.de" tvg-name="Sky Select 4" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_4.png" group-title="Sky Deutschland",Sky Select 4
+
+#EXTINF:-1 tvg-id="SkySelect5.de" tvg-name="Sky Select 5" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_5.png" group-title="Sky Deutschland",Sky Select 5
+
+#EXTINF:-1 tvg-id="SkySelect6.de" tvg-name="Sky Select 6" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_6.png" group-title="Sky Deutschland",Sky Select 6
+
+#EXTINF:-1 tvg-id="SkySelect7.de" tvg-name="Sky Select 7" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_7.png" group-title="Sky Deutschland",Sky Select 7
+
+#EXTINF:-1 tvg-id="SkySelect8.de" tvg-name="Sky Select 8" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_8.png" group-title="Sky Deutschland",Sky Select 8
+
+#EXTINF:-1 tvg-id="SkySelect9.de" tvg-name="Sky Select 9" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_9.png" group-title="Sky Deutschland",Sky Select 9
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Event A" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_Event_A.png" group-title="Sky Deutschland",Sky Select Event A
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Event B" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Select_Event_B.png" group-title="Sky Deutschland",Sky Select Event B
+
+#EXTINF:-1 tvg-id="SkyArts.de" tvg-name="Sky Arts HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sky_Arts_HD.png" group-title="Sky Deutschland",Sky Arts HD
+
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="National Geographic" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/National_Geographic.png" group-title="Sky Deutschland",National Geographic
+
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="NatGeo Wild" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/NatGeo_Wild.png" group-title="Sky Deutschland",NatGeo Wild
+
+#EXTINF:-1 tvg-id="History.de" tvg-name="History" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/History.png" group-title="Sky Deutschland",History
+
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorvision TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Motorvision_TV.png" group-title="Sky Deutschland",Motorvision TV
+
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="A&E" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/AE.png" group-title="Sky Deutschland",A&E
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Discovery_Channel.png" group-title="Sky Deutschland",Discovery Channel
+
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Spiegel_Geschichte.png" group-title="Sky Deutschland",Spiegel Geschichte
+
+#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Disney_Junior.png" group-title="Sky Deutschland",Disney Junior
+
+#EXTINF:-1 tvg-id="DisneyXD.de" tvg-name="Disney XD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Disney_XD.png" group-title="Sky Deutschland",Disney XD
+
+#EXTINF:-1 tvg-id="Junior.de" tvg-name="Junior" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Junior.png" group-title="Sky Deutschland",Junior
+
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Boomerang.png" group-title="Sky Deutschland",Boomerang
+
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Cartoon_Network.png" group-title="Sky Deutschland",Cartoon Network
+
+#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="Jukebox" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Jukebox.png" group-title="Sky Deutschland",Jukebox
+
+#EXTINF:-1 tvg-id="GoldstarTV.de" tvg-name="Goldstar TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Goldstar_TV.png" group-title="Sky Deutschland",Goldstar TV
+
+#EXTINF:-1 tvg-id="Classica.de" tvg-name="Classica" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Classica.png" group-title="Sky Deutschland",Classica
+
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV Germany" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/MTV.png" group-title="Weitere Sender",MTV Germany
+
+#EXTINF:-1 tvg-id="MTVMusic.de" tvg-name="MTV Music" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/MTV_Music.png" group-title="Weitere Sender",MTV Music
+
+#EXTINF:-1 tvg-id="vh1-europe" tvg-name="VH1 Europe" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/VH1_Europe.png" group-title="Weitere Sender",VH1 Europe
+
+#EXTINF:-1 tvg-id="vh-1-classic" tvg-name="VH1 Classic" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/VH1_Classic.png" group-title="Weitere Sender",VH1 Classic
+
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="kabel eins classics" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/kabel_eins_classics.png" group-title="Weitere Sender",kabel eins classics
+
+#EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="SAT.1 emotions" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sat_1_emotions.png" group-title="Weitere Sender",SAT.1 emotions
+
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/ProSieben_Fun.png" group-title="Weitere Sender",ProSieben Fun
+
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Animal_Planet.png" group-title="Weitere Sender",Animal Planet
+
+#EXTINF:-1 tvg-id="SpiegelTV.de" tvg-name="Spiegel TV Wissen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Spiegel_TV_Wissen.png" group-title="Weitere Sender",Spiegel TV Wissen
+
+#EXTINF:-1 tvg-id="PLANET.de" tvg-name="Planet" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Planet.png" group-title="Weitere Sender",Planet
+
+#EXTINF:-1 tvg-id="" tvg-name="GEO Television" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/GEO_Television.png" group-title="Weitere Sender",GEO Television
+
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="Nat Geo People" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Nat_Geo_People.png" group-title="Weitere Sender",Nat Geo People
+
+#EXTINF:-1 tvg-id="FixFoxi.de" tvg-name="Fix&Foxi" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/FixFoxi.png" group-title="Weitere Sender",Fix&Foxi
+
+#EXTINF:-1 tvg-id="NickJr.de" tvg-name="Nick Jr." tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Nick_Jr.png" group-title="Weitere Sender",Nick Jr.
+
+#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="Nicktoons" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Nicktoons.png" group-title="Weitere Sender",Nicktoons
+
+#EXTINF:-1 tvg-id="BonGusto.de" tvg-name="BonGusto" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/BonGusto.png" group-title="Weitere Sender",BonGusto
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.de" tvg-name="Sony Channel" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Sony_Channel.png" group-title="Weitere Sender",Sony Channel
+
+#EXTINF:-1 tvg-id="Silverline.de" tvg-name="Silverline" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Silverline.png" group-title="Weitere Sender",Silverline
+
+#EXTINF:-1 tvg-id="Sport1US.de" tvg-name="Sport1 US" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/das/Sport1_US.png" group-title="Weitere Sender",Sport1 US
+
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 HD Xtra" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Eurosport_2_HD_Xtra.png" group-title="Weitere Sender",Eurosport 2 HD Xtra
+
+#EXTINF:-1 tvg-id="ExtremeSports.de" tvg-name="Extreme Sports Channel" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Extreme_Sports_Channel.png" group-title="Weitere Sender",Extreme Sports Channel
+
+#EXTINF:-1 tvg-id="" tvg-name="Motorsport.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Motorsport_tv.png" group-title="Weitere Sender",Motorsport.tv
+
+#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="auto motor und sport channel" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/auto_motor_und_sport.png" group-title="Weitere Sender",auto motor und sport channel
+
+#EXTINF:-1 tvg-id="GuteLauneTV.de" tvg-name="Gute Laune TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Gute_Laune_TV.png" group-title="Weitere Sender",Gute Laune TV
+
+#EXTINF:-1 tvg-id="Wetterfernsehen.de" tvg-name="Deutsches Wetter Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Deutsches_Wetter_Fernsehen.png" group-title="Weitere Sender",Deutsches Wetter Fernsehen
+
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/DeCryptX/Logos/master/Travel_Channel.png" group-title="Weitere Sender",Travel Channel
+
